@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+*Background image [credit]https://unsplash.com/photos/RYyr-k3Ysqg*
+
+🌱 I’m currently learning Genomics Data Science
 <!--
 **dkl0017/dkl0017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
