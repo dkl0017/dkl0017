@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-*Background image [credit]https://unsplash.com/photos/RYyr-k3Ysqg*
+*Background image [credit](https://unsplash.com/photos/RYyr-k3Ysqg)*
 
 🌱 I’m currently learning Genomics Data Science
 <!--
